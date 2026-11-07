@@ -34,9 +34,9 @@ Lumiyuki 是由 **Yuki Studio** 开发的 Windows 桌面摄影水印工具，专
 ---
 
 ## 🖼️ 软件预览
+### 软件界面
 
-*软件界面及水印效果截图即将添加。*
-
+![Lumiyuki 软件界面](interface.png)
 ---
 
 ## 💻 安装方法
